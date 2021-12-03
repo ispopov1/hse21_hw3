@@ -1,6 +1,6 @@
 # hse21_hw3
 
-## ссылка на коллаб
+## https://colab.research.google.com/drive/1HhNG_-ADVjd9cIbdhYBuyjgrphjHbzo1?usp=sharing
 ### Statistics
 ![image](https://user-images.githubusercontent.com/55449081/144645393-e634aa84-e248-4ac6-97a1-8f441e271b61.png)
 ### Sequence counts
@@ -16,7 +16,7 @@
 ### Число чтений, соответствующих хотя бы одному гену
 ![image](https://user-images.githubusercontent.com/55449081/144646513-95dff818-c5cb-408f-b21f-8428bc4d7e56.png)
 
-## zz
+## https://colab.research.google.com/drive/1UedzObr6zx7OCBLZCn6O3jBH0z4ZrbfG?usp=sharing
 ### MA
 ![image](https://user-images.githubusercontent.com/55449081/144647299-14e3cacf-821d-4db3-b37a-60229465a84c.png)
 ### Heatmap
