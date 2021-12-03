@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/55449081/144646513-95dff818-c5cb-408f-b21f-8428bc4d7e56.png)
 
 ## zz
-### график MA
+### MA
 ![image](https://user-images.githubusercontent.com/55449081/144647299-14e3cacf-821d-4db3-b37a-60229465a84c.png)
 ### Heatmap
 ![image](https://user-images.githubusercontent.com/55449081/144647206-3eb0553a-14fa-454d-bafd-ccbf41c9ca8e.png)
